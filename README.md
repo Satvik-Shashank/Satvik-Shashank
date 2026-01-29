@@ -1,7 +1,3 @@
-<!-- ===================== BANNER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Satvik%20Janga&fontSize=45&fontColor=ffffff&desc=Computer%20Science%20Undergraduate%20%7C%20Backend%20%26%20AI%20Engineering&descSize=18&descAlignY=65" />
-</p>
 
 <!-- ===================== INTRO ===================== -->
 <h2 align="center">👋 Hi, I'm Satvik</h2>
@@ -26,7 +22,7 @@ Focused on <b>Data Structures Algorithms • Backend Engineering • Full Stack 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="center">
 
@@ -62,11 +58,11 @@ Focused on <b>Data Structures Algorithms • Backend Engineering • Full Stack 
 ---
 
 ##  Learning Architecture
-Frontend → Next.js
-Backend → Node.js + Express
-Database → PostgreSQL / MySQL
-AI Service → Python Flask Microservice
-Deployment → Docker + Cloud
+- Frontend → Next.js
+- Backend → Node.js + Express
+- Database → PostgreSQL / MySQL
+- AI Service → Python Flask Microservice
+- Deployment → Docker + Cloud
 
 
 ---
@@ -95,19 +91,8 @@ Deployment → Docker + Cloud
 
 ---
 
-##  GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satvik-Janga&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satvik-Janga&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Contribution Snake
+## + Contribution 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Satvik-Janga/Satvik-Janga/output/github-contribution-grid-snake.svg" />
@@ -129,6 +114,6 @@ Deployment → Docker + Cloud
   </a>
 </p>
 
----
+
 
 
