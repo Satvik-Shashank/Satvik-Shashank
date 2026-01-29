@@ -1,20 +1,134 @@
-## 👋 Hey there, I'm Satvik
+<!-- ===================== BANNER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Satvik%20Janga&fontSize=45&fontColor=ffffff&desc=Computer%20Science%20Undergraduate%20%7C%20Backend%20%26%20AI%20Engineering&descSize=18&descAlignY=65" />
+</p>
 
-I’m a second year undergraduate student at SRM Institute of Science and Technology, KTR, pursuing a degree in Computer Science. I’m passionate about building scalable technology, working with innovative startups, and solving real world problems through logic driven engineering.
+<!-- ===================== INTRO ===================== -->
+<h2 align="center">👋 Hi, I'm Satvik</h2>
 
-I'm interested in how things work behind the scenes, from how features are built to how real products scale. My current focus is on mastering data structures and algorithms in C++, strengthening my backend development skills, and building full stack projects that reflect real world use cases.
+<p align="center">
+Second-year Computer Science undergraduate at <b>SRM Institute of Science & Technology, KTR</b><br/>
+Focused on <b>Data Structures Algorithms • Backend Engineering • Full Stack Development • AI/ML Foundations</b>
+</p>
 
-Beyond technical learning, I enjoy collaborating with like minded people, taking part in hackathons, and contributing to tech clubs and communities. I believe in growing through execution — learning by building, failing, fixing, and improving along the way.
-
-I’m especially interested in opportunities to collaborate with early stage startups and fast moving teams that value curiosity, clarity, and strong fundamentals. Whether it's solving technical challenges, brainstorming product ideas, or writing clean and scalable code, I’m all in.
-
-If you’re working on something exciting or just want to connect and talk tech, feel free to reach out. Always open to conversations, collaborations, and new challenges!
+<p align="center">
+</p>
 
 ---
 
-### 📫 Let's Connect!
+##  Current Focus
 
-- 📍 [LinkedIn](https://www.linkedin.com/in/satvik-shashank-janga-82b530318)
-- 👨‍💻 [LeetCode](https://leetcode.com/u/Satvik_Janga/)
-- 🚀 [Devfolio](https://devfolio.co/@Satvik_Shashank)
-- 📧 jangasatvik@gmail.com
+- Data Structures & Algorithms (LeetCode)
+- Backend-first Full Stack Development
+- Scalable APIs & Database Design
+- AI / ML concepts with hands-on projects
+- Internship-oriented system building
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<!-- Languages -->
+<img src="https://img.shields.io/badge/C++-111111?style=flat&logo=c%2B%2B&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/Java-111111?style=flat&logo=oracle&logoColor=F80000"/>
+<img src="https://img.shields.io/badge/Python-111111?style=flat&logo=python&logoColor=FFD43B"/>
+<img src="https://img.shields.io/badge/JavaScript-111111?style=flat&logo=javascript&logoColor=F7DF1E"/>
+
+<br/>
+
+<!-- Web -->
+<img src="https://img.shields.io/badge/Next.js-111111?style=flat&logo=nextdotjs"/>
+<img src="https://img.shields.io/badge/Node.js-111111?style=flat&logo=nodedotjs&logoColor=3C873A"/>
+<img src="https://img.shields.io/badge/Express-111111?style=flat&logo=express"/>
+<img src="https://img.shields.io/badge/REST_API-111111?style=flat"/>
+
+<br/>
+
+<!-- Database -->
+<img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat&logo=postgresql&logoColor=336791"/>
+<img src="https://img.shields.io/badge/MySQL-111111?style=flat&logo=mysql&logoColor=4479A1"/>
+
+<br/>
+
+<!-- AI -->
+<img src="https://img.shields.io/badge/Machine_Learning-111111?style=flat"/>
+<img src="https://img.shields.io/badge/Deep_Learning-111111?style=flat"/>
+<img src="https://img.shields.io/badge/AI_Agents-111111?style=flat"/>
+
+</p>
+
+---
+
+##  Learning Architecture
+Frontend → Next.js
+Backend → Node.js + Express
+Database → PostgreSQL / MySQL
+AI Service → Python Flask Microservice
+Deployment → Docker + Cloud
+
+
+---
+
+## 📌 Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/Satvik-Janga">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satvik-Janga&repo=dsa-cpp&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Satvik-Janga">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satvik-Janga&repo=fullstack-next-node&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Satvik-Janga">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satvik-Janga&repo=ai-ml-projects&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Satvik-Janga">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satvik-Janga&repo=java-backend-projects&theme=tokyonight" />
+  </a>
+</p>
+
+> ⚠️ Replace repo names above once you create them.
+
+---
+
+##  GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Satvik-Janga&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satvik-Janga&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Satvik-Janga/Satvik-Janga/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/satvik-shashank-janga-82b530318">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  <a href="https://leetcode.com/u/Satvik_Janga/">
+    <img src="https://img.shields.io/badge/LeetCode-111111?style=flat&logo=leetcode&logoColor=FFA116"/>
+  </a>
+  <a href="mailto:jangasatvik@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=flat&logo=gmail&logoColor=D14836"/>
+  </a>
+</p>
+
+---
+
+
