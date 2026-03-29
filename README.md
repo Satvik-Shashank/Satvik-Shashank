@@ -1,119 +1,94 @@
-
 <!-- ===================== INTRO ===================== -->
-<h2 align="center">👋 Hi, I'm Satvik</h2>
+<h2 align="center">Satvik Shashank Janga</h2>
 
 <p align="center">
 Second-year Computer Science undergraduate at <b>SRM Institute of Science & Technology, KTR</b><br/>
-Focused on <b>Data Structures Algorithms • Backend Engineering • Full Stack Development • AI/ML Foundations</b>
-</p>
-
-<p align="center">
+Focused on <b>Data Structures & Algorithms • Backend Engineering • Full Stack Systems • AI/ML</b>
 </p>
 
 ---
 
-##  Current Focus
+## Current Focus
 
-- Data Structures & Algorithms (LeetCode)
-- Backend-first Full Stack Development
-- Scalable APIs & Database Design
-- AI / ML concepts with hands-on projects
-- Internship-oriented system building
-
----
-
-##  Tech Stack
-
-<p align="center">
-
-<!-- Languages -->
-<img src="https://img.shields.io/badge/C++-111111?style=flat&logo=c%2B%2B&logoColor=00599C"/>
-<img src="https://img.shields.io/badge/Java-111111?style=flat&logo=oracle&logoColor=F80000"/>
-<img src="https://img.shields.io/badge/Python-111111?style=flat&logo=python&logoColor=FFD43B"/>
-<img src="https://img.shields.io/badge/JavaScript-111111?style=flat&logo=javascript&logoColor=F7DF1E"/>
-
-<br/>
-
-<!-- Web -->
-<img src="https://img.shields.io/badge/Next.js-111111?style=flat&logo=nextdotjs"/>
-<img src="https://img.shields.io/badge/Node.js-111111?style=flat&logo=nodedotjs&logoColor=3C873A"/>
-<img src="https://img.shields.io/badge/Express-111111?style=flat&logo=express"/>
-<img src="https://img.shields.io/badge/REST_API-111111?style=flat"/>
-
-<br/>
-
-<!-- Database -->
-<img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat&logo=postgresql&logoColor=336791"/>
-<img src="https://img.shields.io/badge/MySQL-111111?style=flat&logo=mysql&logoColor=4479A1"/>
-
-<br/>
-
-<!-- AI -->
-<img src="https://img.shields.io/badge/Machine_Learning-111111?style=flat"/>
-<img src="https://img.shields.io/badge/Deep_Learning-111111?style=flat"/>
-<img src="https://img.shields.io/badge/AI_Agents-111111?style=flat"/>
-
-</p>
+- Data Structures and Algorithms (problem solving and patterns)
+- Backend-first full stack development
+- Scalable system design and APIs
+- AI / ML fundamentals with real-world projects
+- Building strong, production-grade resume projects
 
 ---
 
-##  Learning Architecture
-- Frontend → Next.js
-- Backend → Node.js + Express
-- Database → PostgreSQL / MySQL
-- AI Service → Python Flask Microservice
-- Deployment → Docker + Cloud
+## Learning Architecture
 
-
----
-
-## 📌 Featured Repositories
-
-<p align="center">
-  <a href="https://github.com/Satvik-Janga">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satvik-Janga&repo=dsa-cpp&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Satvik-Janga">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satvik-Janga&repo=fullstack-next-node&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Satvik-Janga">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satvik-Janga&repo=ai-ml-projects&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Satvik-Janga">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Satvik-Janga&repo=java-backend-projects&theme=tokyonight" />
-  </a>
-</p>
-
-> ⚠️ Replace repo names above once you create them.
+- Frontend → Next.js  
+- Backend → Node.js + Express  
+- Database → PostgreSQL / MySQL  
+- AI Services → Python-based microservices  
+- Deployment → Docker and cloud platforms  
 
 ---
 
+## Featured Projects
 
-## + Contribution 
+### CardioShield — Privacy Preserving Medical Diagnosis System
+AI-based cardiovascular risk prediction system with focus on privacy and explainability.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Satvik-Janga/Satvik-Janga/output/github-contribution-grid-snake.svg" />
-</p>
+- Machine learning pipeline with clinical data
+- SHAP-based explainability
+- Streamlit deployment
+
+Repository:  
+https://github.com/Satvik-Shashank/CardioShield_Privacy_Preserving_Medical_Diagnosis-System
 
 ---
 
-## 📫 Connect With Me
+### AI-Assisted Infant Brain MRI Analysis
+Early neurodevelopment risk assessment using medical imaging and AI.
+
+- MRI-based analysis pipeline
+- Risk prediction modeling
+- Research-oriented implementation
+
+Repository:  
+https://github.com/Satvik-Shashank/AI-Assisted-Analysis-of-Infant-Brain-MRI-for-Early-Neurodevelopment-Risk-Assessment
+
+---
+
+### LeetCode DSA Personal Solutions
+Structured collection of Data Structures and Algorithms problems.
+
+- Clean implementations in python
+
+Repository:  
+https://github.com/Satvik-Shashank/LEETCODE-DSA-PERSONAL-SOLUTION
+
+---
+
+### Placify — Campus Placement Management Portal
+Full-stack system for managing campus placements.
+
+- Backend-focused architecture
+- Database-driven workflows
+- Scalable system design
+
+Repository:  
+https://github.com/Satvik-Shashank/Placify_Campus-placement-management-portal
+
+---
+
+## Contact
+
+LinkedIn  
+https://www.linkedin.com/in/satvik-shashank-janga-82b530318
+
+LeetCode  
+https://leetcode.com/u/Satvik_Janga/
+
+Email  
+jangasatvik@gmail.com
+
+
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/satvik-shashank-janga-82b530318">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat&logo=linkedin&logoColor=0A66C2"/>
-  </a>
-  <a href="https://leetcode.com/u/Satvik_Janga/">
-    <img src="https://img.shields.io/badge/LeetCode-111111?style=flat&logo=leetcode&logoColor=FFA116"/>
-  </a>
-  <a href="mailto:jangasatvik@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=flat&logo=gmail&logoColor=D14836"/>
-  </a>
+Focused on building systems that are technically strong, scalable, and relevant to real-world problems.
 </p>
-
-
-
-
